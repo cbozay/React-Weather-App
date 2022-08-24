@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+<h1>What is it about?
+<h3>It has been tried to pull datas from an api server.
+
+![](weather.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
